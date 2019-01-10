@@ -1,0 +1,8 @@
+version: 0.0.1
+files:
+  - url: golflauncher-setup-0.0.1.exe
+    sha512: eFAMB5t4VqXvJT0ik3pehyQq+RBLomvdSxmL93lnE53CsmjMmUINWQfF1y5zvlMmo3PKuEIB+wVmyH3tEdrIgQ==
+    size: 75061753
+path: golflauncher-setup-0.0.1.exe
+sha512: eFAMB5t4VqXvJT0ik3pehyQq+RBLomvdSxmL93lnE53CsmjMmUINWQfF1y5zvlMmo3PKuEIB+wVmyH3tEdrIgQ==
+releaseDate: '2019-01-10T03:50:10.336Z'
